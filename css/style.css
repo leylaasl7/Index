@@ -9,9 +9,7 @@ html {
 body {
     background-color: LightGray;
 }
-div {
-    border: 1px solid Chocolate;
-}
+
 
 /* Navigation Section */
 .top-navigation {
@@ -27,6 +25,8 @@ div {
     margin: 0 auto;
     min-width: 37.5rem;
     box-sizing: border-box;
+    color: white;
+    text-align:center;
 }
 .top-navigation .links li {
     display: inline-block;
